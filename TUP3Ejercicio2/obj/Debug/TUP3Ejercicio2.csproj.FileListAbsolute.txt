@@ -1,0 +1,10 @@
+E:\GitHubLocal\TUP3Ejercicio2\TUP3Ejercicio2\bin\Debug\TUP3Ejercicio2.exe.config
+E:\GitHubLocal\TUP3Ejercicio2\TUP3Ejercicio2\bin\Debug\TUP3Ejercicio2.exe
+E:\GitHubLocal\TUP3Ejercicio2\TUP3Ejercicio2\bin\Debug\TUP3Ejercicio2.pdb
+E:\GitHubLocal\TUP3Ejercicio2\TUP3Ejercicio2\obj\Debug\TUP3Ejercicio2.csproj.AssemblyReference.cache
+E:\GitHubLocal\TUP3Ejercicio2\TUP3Ejercicio2\obj\Debug\TUP3Ejercicio2.Form1.resources
+E:\GitHubLocal\TUP3Ejercicio2\TUP3Ejercicio2\obj\Debug\TUP3Ejercicio2.Properties.Resources.resources
+E:\GitHubLocal\TUP3Ejercicio2\TUP3Ejercicio2\obj\Debug\TUP3Ejercicio2.csproj.GenerateResource.cache
+E:\GitHubLocal\TUP3Ejercicio2\TUP3Ejercicio2\obj\Debug\TUP3Ejercicio2.csproj.CoreCompileInputs.cache
+E:\GitHubLocal\TUP3Ejercicio2\TUP3Ejercicio2\obj\Debug\TUP3Ejercicio2.exe
+E:\GitHubLocal\TUP3Ejercicio2\TUP3Ejercicio2\obj\Debug\TUP3Ejercicio2.pdb
