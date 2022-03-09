@@ -109,6 +109,7 @@ namespace TUP3Ejercicio2
             this.btnAccept.TabIndex = 9;
             this.btnAccept.Text = "Aceptar";
             this.btnAccept.UseVisualStyleBackColor = true;
+            this.btnAccept.Click += new System.EventHandler(this.btnAccept_Click);
             // 
             // btnClean
             // 

@@ -52,5 +52,31 @@ namespace TUP3Ejercicio2
             }
             cBCountry.Text = "";
         }
+
+        private bool validatorAccept()
+        {
+            bool ok = true;
+            if (string.IsNullOrEmpty(textName.Text) || string.IsNullOrEmpty(textLastName.Text) || string.IsNullOrEmpty(textBirthPlace.Text) || string.IsNullOrEmpty(cBCountry.Text))
+            {
+                ok = false;
+            }
+            else if(!radioBtnYes.Checked && !radioBtnNo.Checked)
+            {
+                ok = false;
+            }
+            return ok;
+        }
+
+        private void btnAccept_Click(object sender, EventArgs e)
+        {
+            if (validatorAccept() == false)
+            {
+                MessageBox.Show("Todos los campos son obligatorios.");
+            }
+            else
+            {
+                MessageBox.Show("Datos cargados correctamente");
+            }
+        }
     }
 }
